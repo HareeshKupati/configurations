@@ -1,3 +1,2 @@
-
-order:
-  type: order-service-dev
+# order:
+#   type: order-service-dev
